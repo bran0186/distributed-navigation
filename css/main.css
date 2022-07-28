@@ -12,6 +12,7 @@ html {
 
 *, *::before, *::after {
   box-sizing: inherit;
+  display: flex;
 }
 
 body {
@@ -33,6 +34,7 @@ header {
   font-size: 1.125rem;
   line-height: 1.5;
   margin: 0;
+  display: flex;
 }
 
 header h1 {
@@ -40,6 +42,7 @@ header h1 {
   font-size: 1.125rem;
   line-height: 1.5;
   margin: 0;
+  display: flex;
 }
 
 header img {
@@ -48,6 +51,7 @@ header img {
   line-height: 1.5;
   margin: 0;
   width: 2rem;
+  display: flex;
 }
 
 header p {
@@ -55,6 +59,7 @@ header p {
   font-size: 1.125rem;
   line-height: 1.5;
   margin: 0;
+  display: flex;
 }
 
 nav ul {
@@ -62,6 +67,7 @@ nav ul {
   font-size: 1.125rem;
   line-height: 1.5;
   margin: 0;
+  display: flex;
 }
 
 nav a {
@@ -69,6 +75,7 @@ nav a {
   font-size: 1.125rem;
   line-height: 1.5;
   margin: 0;
+  display: flex;
 }
 
 a:hover {
