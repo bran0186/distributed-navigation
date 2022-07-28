@@ -12,7 +12,6 @@ html {
 
 *, *::before, *::after {
   box-sizing: inherit;
-  display: flex;
 }
 
 body {
